@@ -5,17 +5,20 @@
 
 ##npm install
 
-##npm run dev
 
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
+npm run dev
+```
 yarn serve
 ```
 
 ### Compiles and minifies for production
+```
+npm run build
 ```
 yarn build
 ```
